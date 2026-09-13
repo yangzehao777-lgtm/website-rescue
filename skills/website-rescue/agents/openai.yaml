@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Rescue"
+  short_description: "Fix website bugs with before-and-after evidence"
+  default_prompt: "Use $website-rescue to inspect this website, repair the most important usability defects, and verify the changes with before-and-after evidence."
